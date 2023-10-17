@@ -1,0 +1,22 @@
+.container_big-card{
+  border: solid white 2px;
+  width: 400px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.big-card_photo{
+
+}
+
+.big-card_title{
+
+}
+
+.big-card_description{
+
+}
