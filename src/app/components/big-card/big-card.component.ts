@@ -9,9 +9,12 @@ export class BigCardComponent implements OnInit {
 
   @Input()
   descricao: string =""
-  texto:string ="vista aérea da cidade de belem englobando os mais diversos bairros do centro que tem vista para a bahia"
+  @Input()
+  texto:string =""
   @Input()
   imagem:string =""
+  @Input()
+  id:string="0"
 
   ngOnInit(): void {
 

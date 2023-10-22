@@ -7,13 +7,14 @@
   height: 100vh;
   align-items: center;
 
+
 }
 
 .content_cover >img{
   border: solid grey;
-  width: 500px;
-  min-width: 500px;
-  height: 300px;
+  width: 600px;
+  min-width: 600px;
+  height: 350px;
 }
 
 .content_title{
@@ -26,4 +27,5 @@
 
 .content_description >p{
   color: grey;
+  font-size: 30px;
 }
